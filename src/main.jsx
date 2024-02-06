@@ -1,7 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
 
-import { Pages } from "./pages";
+import { Pages } from "./pages/index";
 
 import "./assets/styles/index.css";
 
