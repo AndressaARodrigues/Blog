@@ -46,8 +46,8 @@ export const Home = ({ app }) => {
         <App>
           <div className="bg-gray-100 min-h-screen w-screen">
             <div className="flex justify-between px-5 py-2 border-b bg-white">
-              <span className="font-sans text-lg text-sky-500 lowercase">
-                    Página Inicial
+              <span className="font-sans text-lg text-sky-500 uppercase">
+                Blog
               </span>
               <div>
                 <span className="font-sans text-sm text-gray-500 mr-2">

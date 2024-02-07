@@ -1,0 +1,14 @@
+{
+  "alurites": {
+    "unique_message_id_1": {
+      "message": "Conteúdo da primeira mensagem",
+      "by": "email_do_usuario_1@example.com",
+      "when": 1644162691000
+    },
+    "unique_message_id_2": {
+      "message": "Conteúdo da segunda mensagem",
+      "by": "email_do_usuario_2@example.com",
+      "when": 1644162725000
+    }
+  }
+}
