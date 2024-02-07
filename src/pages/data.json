@@ -1,5 +1,5 @@
 {
-  "alurites": {
+  "data": {
     "unique_message_id_1": {
       "message": "Conteúdo da primeira mensagem",
       "by": "email_do_usuario_1@example.com",
